@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://diegoherrer4.github.io/diegoherrera.github.io/#](https://diegoherrer4.github.io/diegoherrera.github.io/#)
 
-- 💬 Ask me about **react, javascript, blockchain**
+- 💬 Ask me about **react, javascript, full stack dev, blockchain**
 
 - 📫 How to reach me **diegxstro@gmail.com**
 
