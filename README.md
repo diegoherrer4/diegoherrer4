@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diego Herrera</h1>
-<h3 align="center">A passionate JS/React Dev from the US</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://diegoherrer4.github.io/diegoherrera.github.io/#](https://diegoherrer4.github.io/diegoherrera.github.io/#)
 
