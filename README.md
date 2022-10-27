@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🐱‍💻 Passionate Full Stack Dev from the United States<br><br> 🔭 I’m currently working on a Soccer Meetup Website<br><br> 🌱 I’m currently learning React.js<br><br> 👯 I’m looking to collaborate with other enthusiastic developers. <br>
+ 🐱‍💻 Passionate Full Stack Dev from the United States<br><br> 🔭 I’m currently working on a Soccer Meetup Website<br><br> 🌱 I’m currently learning TypeScript<br><br> 👯 I’m looking to collaborate with other enthusiastic developers. <br>
 
 
 ## 🌐 Socials:
