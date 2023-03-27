@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🐱‍💻 Passionate Full Stack Dev from the United States<br><br> 🔭 I’m currently working on a Social Media App that uses Redux<br><br> 🌱 I’m currently learning TypeScript & React<br><br> 👯 I’m looking to collaborate with other enthusiastic developers. <br>
+ 🐱‍💻 Passionate Full Stack Dev from the United States<br><br> 🔭 I’m currently working on a Social Media App that uses MAterial UI, Redux, & AWS<br><br> 🌱 I’m currently learning TypeScript & React<br><br> 👯 I’m looking to collaborate with other enthusiastic developers. <br>
 
 
 ## 🌐 Socials:
