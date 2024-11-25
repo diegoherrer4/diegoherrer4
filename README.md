@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🐱‍💻 Passionate ServiceNow Developer from the United States<br><br> 🔭 I’m currently working on my CIS certification<br><br> <br> 👯 I’m looking to collaborate with other enthusiastic developers. <br>
+ 🐱‍💻 Passionate ServiceNow Developer from the United States<br><br> 🔭 I’m currently working on my CIS certification<br> <br> 👯 I’m looking to collaborate with other enthusiastic developers. <br>
 
 
 ## 🌐 Socials:
